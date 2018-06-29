@@ -24,6 +24,9 @@ A multiplayer sumo game built in Unity to test their built in matchmaking system
 
 
 ### In-game:
+![network-test-gameplay][network-test-gameplay]
+
+
 
 ![network-test-match][network-test-match]
 
@@ -64,3 +67,4 @@ A multiplayer sumo game built in Unity to test their built in matchmaking system
 
 [network-test-gif-matchmaking]: https://i.imgur.com/SsNUDwI.gif "Network Test"
 [network-test-gif-manual]: https://i.imgur.com/5L60upl.gif "Network Test"
+[network-test-gameplay]: https://i.imgur.com/2jxjLAS.gif "Network Test Gameplay"
